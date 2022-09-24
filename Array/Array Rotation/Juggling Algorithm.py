@@ -23,4 +23,4 @@ for i in range(0,gcd):
         arr[j] = arr[k]
         j = k
     arr[j] = temp
-print("Array After the rotation: " , arr)
+print("Array After the rotation: ", arr)
